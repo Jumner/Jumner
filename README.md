@@ -1,5 +1,8 @@
-# Just don\'t ask about my profile picture
-#### Because I am not going to say anything
+# Hey! I\'m Justin
+- 🔭 I'm currently working on Cubic
+- 🌱 I love learning complex topics
+- 🎓 I'll be going to Queen's for Mechatronics Engineering
+- 💬 Feel free to [shoot me an email](mailto:justintfrank@gmail.com)
 
 <!--
 
