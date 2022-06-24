@@ -17,7 +17,8 @@
 Here Are Some of My Projects
 </h2>
 
-### [Cubic](https://github.com/jumner/cubicfirmware)
+### Cubic
+[![Cubic](https://github-readme-stats.vercel.app/api/pin/?username=jumner&repo=cubicFirmware&theme=dracula&hide_border=true)](https://github.com/jumner/cubicfirmware)
 
 <img src="https://user-images.githubusercontent.com/69999075/175431668-324ac41d-5c04-4bda-bd9f-c9cc0a512682.jpg" width="300px"/>
 
@@ -26,15 +27,18 @@ It works on the edge but not on the corner yet (It is a really tough problem).
 
 <br/><br/>
 
-### [Turing Vscode](https://github.com/jumner/turingvscode)
+### Turing Vscode
+[![Cubic](https://github-readme-stats.vercel.app/api/pin/?username=jumner&repo=turingvscode&theme=dracula&hide_border=true)](https://github.com/jumner/turingvscode)<br/>
 [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/Jumner.tsh.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=Jumner.tsh)
 <br/>
+- I added intellisense support for [Turing](https://github.com/Open-Turing-Project/OpenTuring) in [Vscode](https://github.com/Microsoft/vscode)
 ![](https://raw.githubusercontent.com/Jumner/TuringVscode/main/images/Example.gif)
 
 <br/><br/>
 
 ### [Hack The Ridge Website](https://hacktheridge.xyz)
-- A clean site a friend and I made for our schools hackathon
+[![Cubic](https://github-readme-stats.vercel.app/api/pin/?username=jumner&repo=htr-website&theme=dracula&hide_border=true)](https://github.com/jumner/htr-website)
+- A clean site a friend and I made for our school's hackathon
 
 ---
 <h2 align="center">
@@ -42,6 +46,8 @@ Github Statistics
 </h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jumner&hide_border=true&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jumner&hide_border=true&layout=compact&theme=vue-dark&langs_count=8&exclude_repo=obsidian,%2Cdotfiles"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jumner&hide_border=true&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jumner&hide_border=true&layout=compact&theme=vue-dark&langs_count=8&exclude_repo=obsidian%2C.dotfiles%2CcompSci"/> -->
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jumner&theme=dracula"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jumner&theme=dracula"/>
 </p>
