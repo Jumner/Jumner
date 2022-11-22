@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on [Cubic](www.github.com/jumner/cubicfirmware)
 - 🌱 I love learning complex topics
-- 🎓 I'll be going to Queen's for Mechatronics Engineering
+- 🎓 I'm studying Mechatronics and Robotics Engineering at Queen's University
 - 💬 Feel free to [shoot me an email](mailto:justintfrank@gmail.com)
 
 ---
