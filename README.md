@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/stars/jumner?color=yellow&style=for-the-badge) 
 [![](https://img.shields.io/website?down_color=red&down_message=DOWN%20%3A%28&style=for-the-badge&up_color=brightgreen&up_message=UP&url=https%3A%2F%2Fjumner.github.io)](https://jumner.github.io)
 ![](https://img.shields.io/badge/Favorite%20Language-Rust-blue?style=for-the-badge) 
-![](https://img.shields.io/badge/Favorite%20IDE-Emacs-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/Favorite%20IDE-Helix-blueviolet?style=for-the-badge)
 
 - 🔭 I'm currently reworking [Cubic](www.github.com/jumner/cubicfirmware)
 - 🌱 I love learning about control (state estimation, stability analysis, etc...)
@@ -29,7 +29,7 @@ VS
 </p><br/>
 
 Inspired by [Cubli](https://www.youtube.com/watch?v=n_6p-1J551Y), it is a cube that can balance on a corner or edge by spinning reaction wheels.
-It works on the edge but not on the corner yet (It is a really tough problem). I'm currently restarting the software from the ground up using proper techniques to hopefully get much more robust control.
+Though it balances on the corner, there is always room to make it more robust. Not sure when I will return to this project, but this is certainly not the end.
 
 <br/><br/>
 
