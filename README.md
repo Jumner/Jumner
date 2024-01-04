@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Favorite%20Language-Rust-blue?style=for-the-badge) 
 ![](https://img.shields.io/badge/Favorite%20IDE-Helix-blueviolet?style=for-the-badge)
 
-- 🔭 I'm currently reworking [Cubic](www.github.com/jumner/cubicfirmware)
+- 🔭 I'm currently working on [Autodrive](https://autodrive.engineering.queensu.ca/)
 - 🌱 I love learning about control (state estimation, stability analysis, etc...)
 - 🎓 I'm studying Mechatronics and Robotics Engineering at Queen's University
 - 💬 Feel free to [shoot me an email](mailto:justintfrank@gmail.com)
