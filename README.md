@@ -20,7 +20,9 @@ Here Are Some of My Projects
 ### Belly Flop to Vertical, Propulsive Landing MPC
 [![Landing Sim](https://github-readme-stats.vercel.app/api/pin/?username=jumner&repo=landing-sim&theme=dracula&hide_border=true)](https://github.com/jumner/landing-sim)
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/Jumner/Jumner.github.io/main/img/0.25s-caught.gif" alt="gif of simulated catch" style="height:500px;"/>
+</p>
 
 Inspired by watching in disbelief as [SpaceX caught booster 12 with the launch tower](https://www.youtube.com/watch?v=hI9HQfCAw64), I wondered how a model predictive controller would work in such a situation. With some time on my hands, I decided to find out.
 
