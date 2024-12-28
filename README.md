@@ -7,15 +7,24 @@
 ![](https://img.shields.io/badge/Favorite%20Language-Rust-blue?style=for-the-badge) 
 ![](https://img.shields.io/badge/Favorite%20IDE-Helix-blueviolet?style=for-the-badge)
 
-- 🔭 I'm currently working on [Autodrive](https://autodrive.engineering.queensu.ca/)
-- 🌱 I love learning about control (state estimation, stability analysis, etc...)
-- 🎓 I'm studying Mechatronics and Robotics Engineering at Queen's University
+- 🔭 I'm currently the Director of Autonomy for [AutoDrive](https://autodrive.engineering.queensu.ca/) this year.
+- 🌱 I love learning about autonomous systems with a focus on controls and state estimation.
+- 🎓 I'm in my third year of Mechatronics and Robotics Engineering at Queen's University
 - 💬 Feel free to [shoot me an email](mailto:justintfrank@gmail.com)
 
 ---
 <h2 align="center">
 Here Are Some of My Projects
 </h2>
+
+### Belly Flop to Vertical, Propulsive Landing MPC
+[![Landing Sim](https://github-readme-stats.vercel.app/api/pin/?username=jumner&repo=landing-sim&theme=dracula&hide_border=true)](https://github.com/jumner/landing-sim)
+
+![](https://raw.githubusercontent.com/Jumner/Jumner.github.io/main/img/0.25s-caught.gif)
+
+Inspired by watching in disbelief as [SpaceX caught booster 12 with the launch tower](https://www.youtube.com/watch?v=hI9HQfCAw64), I wondered how a model predictive controller would work in such a situation. With some time on my hands, I decided to find out.
+
+<br/><br/>
 
 ### Cubic
 [![Cubic](https://github-readme-stats.vercel.app/api/pin/?username=jumner&repo=cubicFirmware&theme=dracula&hide_border=true)](https://github.com/jumner/cubicfirmware)
