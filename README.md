@@ -22,7 +22,7 @@ Here Are Some of My Projects
 <img src="img/the_monarch.jpg" alt="Our autonomous vehicle" style="width:700px;"/>
 </p>
 
-Queen's AutoDrive is a design team that is participating in the GM - SAE AutoDrive Challenge II autonomous driving competition. We are developing autonomous driving systems for our Chevrolet Bolt. I'm currently directing the Autonomy division which includes everything from sensor fusion to motion planning and controls. It is an extremely fast-paced environment that has found me learning far more than I could've imagined.
+Queen's AutoDrive is a design team that is competing against 9 other teams in the GM - SAE AutoDrive Challenge II autonomous driving competition. We are developing autonomous driving systems for our Chevrolet Bolt. I'm currently directing the Autonomy division which includes everything from sensor fusion to motion planning and controls. It is an extremely fast-paced environment that has found me learning far more than I could've imagined.
 
 <br/><br/>
 
